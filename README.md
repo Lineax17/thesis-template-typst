@@ -4,7 +4,7 @@ This repository provides a Typst template for examination project theses at THD.
 
 ## License
 
-This project is licensed under GPL-3.0.
+This project is licensed under MIT.
 
 ## Contributing
 
